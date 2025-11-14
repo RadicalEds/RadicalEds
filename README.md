@@ -10,7 +10,7 @@ I've Never Worked A Day In My Life, Nor Intend Too.
 - bash / zsh / batch / vbs
 - PHP / javascript / css / html / a couple of templating engines
 
-### Some Things I've Built (I Dont Usually Share my Projects)
+### Some Things I've Built (I Dont Usually Share My Projects)
 - A **Media Center** that analyses media scene by scene, beat by beat, hash by hash
 - **Video Edit Generator** With Custom, Automated, Video Filters and a few Scene Selection Algorithms
 - Many, Many **Irc bots** and some **Discord Bots** too. (ive written irc bots in bash, perl, python, and nodejs.)
