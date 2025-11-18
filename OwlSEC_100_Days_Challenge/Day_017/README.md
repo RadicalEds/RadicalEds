@@ -2,7 +2,7 @@
 -# Captains Log... Star Date:  ***11-17***    
     
 __**𝒯**𝑜𝒹𝒶𝓎 𝐼 𝒲𝑜𝓇𝓀𝑒𝒹 𝒪𝓃__    
--# Some Hack The Box Challenges    
+-# *Some Hack The Box Challenges*    
     
 __**𝒲**𝒽𝒶𝓉 𝐼 𝒞𝑜𝓂𝓅𝓁𝑒𝓉𝑒𝒹__    
     
