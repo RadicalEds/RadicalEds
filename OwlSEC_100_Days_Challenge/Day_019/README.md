@@ -38,4 +38,4 @@ __**𝒩**𝑒𝓍𝓉 𝒮𝓉𝑒𝓅𝓈__
 -# *Finish the Project*        
         
 ---
-|| #Script #Programming #WordPress #OwlSEC #100days ||
+> #Script #Programming #WordPress #OwlSEC #100days
