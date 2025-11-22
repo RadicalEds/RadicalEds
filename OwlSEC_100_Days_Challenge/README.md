@@ -1,5 +1,5 @@
 # OwlSEC 100 Days of Hacking Challenge
-RadicalEds Progress Log
+RadicalEds Progress Log Archive (Originally Formatted For Discord)
 
 ### What Is It?
 The OwlSEC Community Has Issued a Challenge to Its Members.   
