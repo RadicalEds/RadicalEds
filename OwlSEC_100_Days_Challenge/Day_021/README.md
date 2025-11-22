@@ -13,7 +13,9 @@ __**𝒲**𝒽𝒶𝓉 𝐼 𝒞𝑜𝓂𝓅𝓁𝑒𝓉𝑒𝒹__
 > we see that its running flask, and read up on its sub routines.
 > the server has a cron job, once every minute it runs all the python scripts in a certain directory
 > 
-> after some research we learned about xml namespace extensions. using an xml payload we exploited the `/convert` function to write a python payload to the scripts directory, waited a minute for cron to do its thing and then we recieved our reverse shell.
+> after some research we learned about XML namespace extensions and EXSLT.
+> 
+> Using an XML payload we exploited the `/convert` function to write a python payload to the scripts directory, waited a minute for cron to do its thing and then we recieved our reverse shell.
 > 
 > Initial access attained as `www-data` user, huzzah!
 > 
